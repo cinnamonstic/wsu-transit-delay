@@ -1,0 +1,16 @@
+timestamp,route_id,route_name,stop_id,stop_name,scheduled_time,predicted_time,status
+2025-03-14 08:00,WSU-A,Green Loop,ST-101,State Hall,08:05,08:05,ON_TIME
+2025-03-14 08:02,WSU-A,Green Loop,ST-102,UGL,08:10,08:14,DELAYED
+2025-03-14 08:05,WSU-B,Blue Shuttle,ST-201,Engineering,08:20,08:31,DELAYED
+2025-03-14 08:06,WSU-A,Green Loop,ST-103,Student Center,08:15,08:16,ON_TIME
+2025-03-14 08:10,WSU-C,Gold Express,ST-301,Parking P5,08:25,08:24,ON_TIME
+2025-03-14 08:12,WSU-B,Blue Shuttle,ST-202,Library Annex,08:30,08:37,DELAYED
+2025-03-14 08:14,WSU-D,Medical Route,ST-401,WSU Med,08:40,08:40,ON_TIME
+2025-03-14 08:16,WSU-A,Green Loop,ST-104,Art Building,08:25,08:33,DELAYED
+2025-03-14 08:18,WSU-C,Gold Express,ST-302,Rec Center,08:35,08:36,ON_TIME
+2025-03-14 08:20,WSU-B,Blue Shuttle,ST-203,Prentis,08:45,08:56,DELAYED
+2025-03-14 08:22,WSU-D,Medical Route,ST-402,Children's Hosp,08:50,08:49,ON_TIME
+2025-03-14 08:24,WSU-A,Green Loop,ST-105,Old Main,08:35,08:38,DELAYED
+2025-03-14 08:26,WSU-C,Gold Express,ST-303,Law School,08:50,08:50,ON_TIME
+2025-03-14 08:28,WSU-B,Blue Shuttle,ST-204,Welcome Center,09:00,09:11,DELAYED
+2025-03-14 08:30,WSU-D,Medical Route,ST-403,Cardio Center,09:05,09:05,ON_TIME
